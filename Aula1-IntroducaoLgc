@@ -1,0 +1,40 @@
+Lógica de programação e algorítmos
+
+Introdução à lógica:
+O que é lógica?
+Áplicável no cotidiano de forma subjetiva. Na computação, é a maneira pela qual instruções são organizadas por um algoritmo com o objetivo de implantar um programa.
+Algoritmo: Sequência de passos para que um objetivo seja atingido.  
+
+Sistemas de computação:
+A Segunda Guerra impulsionou a área tecnológica. Havia necessidade de computadores velozes para fazer cálculo de mísseis e codificar mensagens. Eram computadores grandes, pesados e cheio de válvulas e peças.
+- John von Neumann, matemático húngaro propôs o primeiro computador de programa armazenado e criado.
+ULA <-> UC = CPU
+Base binária - 0 e 1 para qualquer pc
+Binary digit (bit): menor unidade de armazenamento.
+word: menor unidade útil de (armazenamento) manipulação do dado.
+Sistema operacional:
+Software que faz a gestão de outros softwares instalados na máquina.
+- Define quais soft e quando serão utilizados
+- Gerencia o uso de memória
+- Abstrai o hardware para usuário e dev
+
+Representação de algoritmos
+- Linguagem natural
+- Pseudocódigo
+- Fluxograma
+
+Linguagens de programação e compiladores
+- Conjuntos de regras, com palavras-chaves (eng), verbos, símbolos e sequências conhecidas como síntaxe.
+Soft de compilação: Alto nível para baixo nível 
+ LingProg -> Compilação ->LingMáq= Arq binário executável
+Interpretador: O código é executado instrução por instrução à medida que o programa vai requisitando.
+Vantagens:
+- Compilada é + rápida
+
+Python
+https://python.org
+- Linguagem de propósito geral;
+- Vastas bibliotecas, linguagem simples e intuitiva;
+- Multiplataforma, atualizações constantes
+Homenagem ao programa britânico Monty Python 
+- Aplicações em Sistemas Operacionais, Análise de dados, Softwares em Python, Framework django.

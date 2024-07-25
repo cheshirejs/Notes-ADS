@@ -1,0 +1,45 @@
+Fundamentos de Sistemas de Informação
+
+Teoria dos sistemas
+
+Entrada -> sistema -> saída
+Teoria geral dos sistemas (TGS), defende que ela poderia conectra toda a ciencia, com a ideia que sua capacidade de funcionar depende de múltiplos sistemas.
+Características:
+- Aberto, adapta-se ao ambiente
+- Visão holística (geral) do sistema, consciencia de que cada parte contribui pro resto
+- Cada parte depende da outras, e o ambiente fornece feedbacks que o sist interpreta
+- Auto-organizado
+- Inclui partes que concordam em criar o sist mais produtivo e eficiente
+Composição do sistema(geral):
+- Objetivo: Finalidade da criação do sistema
+- Entradas: Material que inicia o processo
+- Processamento: Transformação da matéria-prima (entrada) em um produto ou serviço, ou resultado (saída)
+- Saídas: Resultados do componente processamento; deve ser coerente c objetivo do sist
+- Controles e avaliações: Verificam se todos os componentes estão coerentes com objetivo estabelecido
+- Retroalimentação (feedback): Instrumento de controle; garantir que a finalidade do sist seja atingida com sucesso
+SI:
+Dados -> Processamento -> Informações
+
+Conceitos iniciais funcionamento de SI
+Um sistema precisa de uma infraestrutura mín para funcionar, corresponde à esrutura que suporta um sistema
+Hardware: Qualquer dispositivo usado em sua máquina (físico);
+Software: Coleção de códigos instalados no disco rígido do pc (projetado)
+Hardwwares x Softwares
+Fabricado | Projetado
+Dispositivos eleron | Vemos, mas não tocamos
+Disp de entrada, saída,
+armazenamto e comp interno | Soft de sistema, programação e aplicação
+Não  transf eletr | Pode ser transf eletricamente pela rede
+Se danificado, subst | Se danificado, sua cópia backup pode ser reinstalada
+Ex: Teclado, monitor, | Ex: Windows, Linux, word,excel, photoshop
+CPU, disco rígido
+
+Peopleware
+Computador: Hardw x Softw + Interação do usuário
+- Pessoas que utilizam ou dev SI
+
+
+
+Definição de dado, informação e conhecimento
+Relação entre SI e TI
+Tipos de SI
